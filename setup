@@ -16,4 +16,4 @@ echo 'Downloading laravel installer...';
 composer global require "laravel/installer"
 
 echo 'export PATH=$PATH:~/.composer/vendor/bin' >> ~/.profile
-source .profile
+source ~/.profile
